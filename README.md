@@ -17,6 +17,7 @@ blah blah blah
 
 ## Process
 blah blah blah
+- Length of the Project
 - Photos
 - Steps
 - Sketchup
