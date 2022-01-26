@@ -15,18 +15,18 @@ But what exactly did I learn in those 2-3 months building the alarm clock?
 ## Endresult
 
 ### Features
-- Displaying the time
-- Changing the colour and brightness of the LEDs
-- Changing the time
-- Standard Alarm<br>
+- <b>Displaying the time</b>
+- <b>Changing the colour and brightness of the LEDs</b>
+- <b>Changing the time</b>
+- <b>Standard Alarm</b><br>
   This alarm works the same as any other alarm. You are woken up at the same time every day.
-- Scheduled Alarm<br>
+- <b>Scheduled Alarm</b><br>
   This alarm will wake you up at the time you tell it to on that specific day of the week. For example, you want an alarm at 6:55 on Monday until Friday and no alarm on Saturday and Sunday.
-- Getting you out of your bed
+- <b>Getting you out of your bed</b><br>
   8 minutes before the set time, the first alarm will go off. No worries, this alarm can be snoozed by holding your hand above the right sensor. The second alarm goes off at the set time and you will have to get out of bed and grab the RFID tag from your desk. Put the RFID tag on top of the alarm clock and the alarm will stop.
 
 ### Video
-Watch [this video](https://youtu.be/JE-YsyEofD8) if you would like to see the alarm clock in action.
+Watch <b>[THIS VIDEO](https://youtu.be/JE-YsyEofD8)</b> if you would like to see the alarm clock in action.
   
 ### Photos
 ![Alarm clock Green](https://user-images.githubusercontent.com/75524368/151209619-bcb4d1e1-d756-4304-893c-af86c8307e68.png)
