@@ -49,4 +49,4 @@ Watch <b>[THIS VIDEO](https://youtu.be/JE-YsyEofD8)</b> if you would like to see
 I included the code in the repository. It could definitely be written better, but it works flawlessly! I also included the .stl files if you would like to 3d print it yourself.
 
 <br>
-Ties Petersen [Jan 2022]
+Ties Petersen [January 2022]
